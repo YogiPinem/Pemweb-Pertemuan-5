@@ -1,5 +1,5 @@
 # Pertemuan 5
-Tugas Praktikum Pemrogram Web RC Jadwal C Pertemuan 5
+Tugas Praktikum Pemrograman Web RC Jadwal C Pertemuan 5
 
 Yogi Immanuel Pinem_120140011
 
